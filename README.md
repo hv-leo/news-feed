@@ -1,6 +1,9 @@
 # NewsFeed
 A simple web application to read the top headlines by category.
 
+### Install Dependencies
+- ```npm install``` or ```npm ci```
+
 ### Development Installation
 - Run project: ```npm start```
 
